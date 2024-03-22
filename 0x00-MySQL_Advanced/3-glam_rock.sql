@@ -1,4 +1,4 @@
---lists all bands 
+-- lists all bands 
 
 SELECT band_name,
 COALESCE(split, 2022) - formed AS lifespan
