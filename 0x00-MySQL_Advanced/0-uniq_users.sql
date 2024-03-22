@@ -1,4 +1,4 @@
---create table
+-- create table
 
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
