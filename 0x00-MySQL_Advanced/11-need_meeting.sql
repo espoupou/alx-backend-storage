@@ -1,4 +1,4 @@
---creates a view
+-- creates a view
 DROP VIEW IF EXISTS need_meeting;
 CREATE VIEW need_meeting AS
     SELECT name
