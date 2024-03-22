@@ -1,4 +1,4 @@
---creates a stored procedure
+-- creates a stored procedure
 DROP PROCEDURE IF EXISTS ComputeAverageWeightedScoreForUser;
 DELIMITER $$
 CREATE PROCEDURE ComputeAverageWeightedScoreForUser (user_id INT)
