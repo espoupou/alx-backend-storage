@@ -1,4 +1,4 @@
---creates a trigger that resets the attribute
+-- creates a trigger that resets the attribute
 DROP TRIGGER IF EXISTS validate_email;
 DELIMITER $$
 CREATE TRIGGER validate_email
