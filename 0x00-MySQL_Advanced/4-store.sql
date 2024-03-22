@@ -1,4 +1,4 @@
---creates a trigger that decreases the quantity of an item
+-- creates a trigger that decreases the quantity of an item
 DROP TRIGGER IF EXISTS reduce_quantity;
 DELIMITER $$
 CREATE TRIGGER reduce_quantity
