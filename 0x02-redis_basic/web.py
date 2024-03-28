@@ -49,4 +49,4 @@ just_for_the_checker()
 if __name__ == '__main__':
     print(get_page('https://httpbin.org/anything'))
     print(get_page('http://slowwly.robertomurray.co.uk'))
-    print(get_page('http://google.come'))
+    print(get_page('http://google.com'))
